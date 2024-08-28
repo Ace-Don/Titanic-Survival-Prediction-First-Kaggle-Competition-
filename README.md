@@ -11,7 +11,7 @@ The dataset used in this project is the Titanic dataset, which can be downloaded
 - train.csv: The training set containing labeled data (whether a passenger survived).
 - test.csv: The test set for which you need to predict survival.
 
-##Steps Involved
+### Steps Involved
 - Data Exploration
 - Overview of the dataset.
 - Checking for missing values.
